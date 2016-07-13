@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: e87b1a294b4291a47a22e033b9f5bac4
+timeCreated: 1468413773
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Hand_Left
+    100002: Hand_Right
+    100004: Head
+    100006: LowerArm_Left
+    100008: LowerArm_Right
+    100010: LowerLeg_Left
+    100012: LowerLeg_Right
+    100014: Shoulder_Left
+    100016: Shoulder_Right
+    100018: //RootNode
+    100020: Thigh_Left
+    100022: Thigh_Right
+    100024: Torso
+    100026: UpperArm_Left
+    100028: UpperArm_Right
+    100030: UpperLeg_Left
+    100032: UpperLeg_Right
+    400000: Hand_Left
+    400002: Hand_Right
+    400004: Head
+    400006: LowerArm_Left
+    400008: LowerArm_Right
+    400010: LowerLeg_Left
+    400012: LowerLeg_Right
+    400014: Shoulder_Left
+    400016: Shoulder_Right
+    400018: //RootNode
+    400020: Thigh_Left
+    400022: Thigh_Right
+    400024: Torso
+    400026: UpperArm_Left
+    400028: UpperArm_Right
+    400030: UpperLeg_Left
+    400032: UpperLeg_Right
+    2300000: Hand_Left
+    2300002: Hand_Right
+    2300004: Head
+    2300006: LowerArm_Left
+    2300008: LowerArm_Right
+    2300010: LowerLeg_Left
+    2300012: LowerLeg_Right
+    2300014: Shoulder_Left
+    2300016: Shoulder_Right
+    2300018: Thigh_Left
+    2300020: Thigh_Right
+    2300022: Torso
+    2300024: UpperArm_Left
+    2300026: UpperArm_Right
+    2300028: UpperLeg_Left
+    2300030: UpperLeg_Right
+    3300000: Hand_Left
+    3300002: Hand_Right
+    3300004: Head
+    3300006: LowerArm_Left
+    3300008: LowerArm_Right
+    3300010: LowerLeg_Left
+    3300012: LowerLeg_Right
+    3300014: Shoulder_Left
+    3300016: Shoulder_Right
+    3300018: Thigh_Left
+    3300020: Thigh_Right
+    3300022: Torso
+    3300024: UpperArm_Left
+    3300026: UpperArm_Right
+    3300028: UpperLeg_Left
+    3300030: UpperLeg_Right
+    4300000: Shoulder_Right
+    4300002: Hand_Left
+    4300004: LowerArm_Left
+    4300006: LowerArm_Right
+    4300008: Hand_Right
+    4300010: LowerLeg_Right
+    4300012: UpperLeg_Right
+    4300014: UpperLeg_Left
+    4300016: LowerLeg_Left
+    4300018: Thigh_Right
+    4300020: Thigh_Left
+    4300022: Torso
+    4300024: Shoulder_Left
+    4300026: Head
+    4300028: UpperArm_Left
+    4300030: UpperArm_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
