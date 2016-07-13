@@ -116,7 +116,7 @@ public class Projectile : MonoBehaviour
         }
 
         // If we're here, we should embed in the target
-        var targetTransform = target != null ? target.transform : hit.transform;
+        var targetTransform = target != null ? target.transform : null;
         transform.SetParent(targetTransform, true);
     }
 }
